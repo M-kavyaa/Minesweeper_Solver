@@ -4,7 +4,7 @@
 [![GUI](https://img.shields.io/badge/GUI-Tkinter-3b82f6.svg)](https://docs.python.org/3/library/tkinter.html)
 [![AI Architecture](https://img.shields.io/badge/AI-Layered%20CSP%20%2B%20Probability-green.svg)](#algorithmic-architecture)
 [![Dependencies](https://img.shields.io/badge/dependencies-zero%20(stdlib%20only)-brightgreen.svg)](#requirements--installation)
-[![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
+[![Academic Project](https://img.shields.io/badge/status-academic%20submission-orange.svg)](#)
 
 An intelligent Minesweeper engine, multi-tier constraint-satisfaction AI solver, and real-time interactive desktop visualizer built purely using the Python standard library.
 
@@ -31,7 +31,7 @@ The AI utilizes a three-tier decision hierarchy: **single-clue clearance/saturat
 7. [Execution Guide](#execution-guide)
 8. [Theoretical Bounds & Solvability Limits](#theoretical-bounds--solvability-limits)
 9. [Repository Structure](#repository-structure)
-10. [License](#license)
+10. [Academic Integrity & Rights](#academic-integrity--rights)
 
 ---
 
@@ -277,5 +277,5 @@ print(f"Outcome: {'VICTORY' if won else 'DEFEAT'} | Stats: {stats}")
 
 ---
 
-## License
-Distributed under the [MIT License](LICENSE). Free for academic, educational, and commercial use.
+## Academic Integrity & Rights
+All rights reserved. This project is developed and submitted as coursework. Unauthorized copying, distribution, or reproduction of this codebase without attribution is strictly prohibited.
